@@ -1,2 +1,2 @@
 # BudgetO
-Android application which allows users to budget their expenses in an interactive way.
+An Android application which allows users to budget their expenses in a fun and interactive way.
